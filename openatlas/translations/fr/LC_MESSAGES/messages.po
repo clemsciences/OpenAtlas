@@ -37,7 +37,7 @@ msgstr "icône"
 #: openatlas/display/base_display.py:97 openatlas/display/tab.py:33
 #: openatlas/views/index.py:53
 msgid "presentation site"
-msgstr ""
+msgstr "site de présentation"
 
 #: openatlas/display/base_display.py:125 openatlas/views/entity_index.py:74
 #: openatlas/views/index.py:87 openatlas/views/note.py:21
@@ -288,15 +288,15 @@ msgstr "document"
 #: openatlas/display/display.py:70 openatlas/display/display.py:72
 #: openatlas/display/display.py:74 openatlas/forms/manager.py:269
 msgid "public sharing allowed"
-msgstr ""
+msgstr "partage public autorisé"
 
 #: openatlas/display/display.py:75
 msgid "but license is missing "
-msgstr ""
+msgstr "mais la licence est manquante"
 
 #: openatlas/display/display.py:78 openatlas/forms/manager.py:271
 msgid "license holder"
-msgstr ""
+msgstr "détenteur de la licence"
 
 #: openatlas/display/display.py:79
 msgid "size"
@@ -365,7 +365,7 @@ msgstr "supprimer"
 #: openatlas/display/display.py:303 openatlas/display/display.py:304
 #: openatlas/display/display.py:305
 msgid "mentioned in the source"
-msgstr ""
+msgstr "mentionné dans la source"
 
 #: openatlas/display/display.py:324 openatlas/forms/manager.py:579
 #: openatlas/forms/manager.py:609 openatlas/views/admin.py:212
@@ -1285,7 +1285,7 @@ msgstr "fichiers hors projets"
 
 #: openatlas/templates/file.html:102
 msgid "upload folder"
-msgstr ""
+msgstr "dossier de téléversement"
 
 #: openatlas/templates/file.html:107
 #, fuzzy
@@ -1294,11 +1294,11 @@ msgstr "l'export a échoué"
 
 #: openatlas/templates/file.html:112
 msgid "processed images folder"
-msgstr ""
+msgstr "dossier des images traitées"
 
 #: openatlas/templates/file.html:117
 msgid "IIIF folder"
-msgstr ""
+msgstr "dossier IIIF"
 
 #: openatlas/templates/file.html:130
 msgid "remove custom logo"
@@ -2046,7 +2046,7 @@ msgstr "aucune entité à récupérer"
 
 #: openatlas/views/admin.py:617
 msgid "entity removed from annotation"
-msgstr ""
+msgstr "entité retirée de l'annotation"
 
 #: openatlas/views/admin.py:661
 msgid "delete all logs"
@@ -2148,11 +2148,11 @@ msgstr "fichiers"
 
 #: openatlas/views/entity_index.py:76
 msgid "public without license"
-msgstr ""
+msgstr "public sans licence"
 
 #: openatlas/views/entity_index.py:78
 msgid "public with license but without creator"
-msgstr ""
+msgstr "public avec licence mais sans créateur"
 
 #: openatlas/views/export.py:31
 msgid "data was exported"
